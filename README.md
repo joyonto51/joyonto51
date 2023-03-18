@@ -12,13 +12,13 @@ A very passionate developer with 4+ years experience in Python, Django and Djang
 - ⚡ Fun fact: ...
 
 <h1 align="center">Hi 👋, I'm Jayanta Roy</h1>
-<h3 align="center">A very passionate developer with 4+ years experience in Python, Django and Django Rest Framework. Currently I am working on Frappe and ERPNext at Invento Software Limited to ensure the best and simple solution. Always I like to learn and keep me updated with new technologies.</h3>
+<h4 align="center">A very passionate developer with 4+ years experience in Python, Django and Django Rest Framework. Currently I am working on Frappe and ERPNext at Invento Software Limited to ensure the best and simple solution. Always I like to learn and keep me updated with new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyonto51&label=Profile%20views&color=0e75b6&style=flat" alt="joyonto51" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyonto51" alt="joyonto51" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/joyonto51" target="blank"><img src="https://img.shields.io/twitter/follow/joyonto51?logo=twitter&style=for-the-badge" alt="joyonto51" /></a> </p>
+// <p align="left"> <a href="https://twitter.com/joyonto51" target="blank"><img src="https://img.shields.io/twitter/follow/joyonto51?logo=twitter&style=for-the-badge" alt="joyonto51" /></a> </p> --
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

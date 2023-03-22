@@ -1,6 +1,6 @@
-### Hi there 👋 
-## Jayanta Roy
-A very passionate developer with 4+ years experience in Python, Django and Django Rest Framework. Currently I am working on Frappe and ERPNext at Invento Software Limited to ensure the best and simple solution. Always I like to learn and keep me updated with new technologies.
+<h1 align="center">Hi 👋, I'm Jayanta Roy</h1>
+<span align="center">A very passionate developer with 4+ years experience in Python, Django and Django Rest Framework. Currently I am working on Frappe and ERPNext at Invento Software Limited to ensure the best and simple solution. Always I like to learn and keep me updated with new technologies.</h3>
+<br>
 
 - 🔭 I’m currently working with Frappe and ERPNext
 - 🌱 I’m currently learning 
@@ -11,9 +11,6 @@ A very passionate developer with 4+ years experience in Python, Django and Djang
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="center">Hi 👋, I'm Jayanta Roy</h1>
-<span align="center">A very passionate developer with 4+ years experience in Python, Django and Django Rest Framework. Currently I am working on Frappe and ERPNext at Invento Software Limited to ensure the best and simple solution. Always I like to learn and keep me updated with new technologies.</h3>
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyonto51&label=Profile%20views&color=0e75b6&style=flat" alt="joyonto51" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyonto51" alt="joyonto51" /></a></p> -->

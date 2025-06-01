@@ -1,30 +1,113 @@
-<h1 align="center">Hello 👋, I'm Jayanta Roy</h1>
-<span align="center">A very passionate developer with 4+ years experience in Python, Django and Django Rest Framework. Currently I am working on Frappe and ERPNext at Invento Software Limited to ensure the best and simple solution. Always I like to learn and keep me updated with new technologies.</h3>
-<br>
+<h1 align="center">Hi 👋, I'm Jayanta Roy</h1>
+<h3 align="center">Python | Frappe | ERPNext | Django Developer</h3>
+<h4 align="center">Crafting business solutions with 4+ years of expertise in ERP systems, APIs, and data automation</h4>
 
-- 🔭 I’m currently working with Frappe and ERPNext
-- 🌱 I’m currently learning Odoo.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyonto51&label=Profile%20views&color=0e75b6&style=flat" alt="joyonto51" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyonto51" alt="joyonto51" /></a></p> -->
-
-<p align="left"> <a href="https://twitter.com/joyonto51" target="blank"><img src="https://img.shields.io/twitter/follow/joyonto51?logo=twitter&style=for-the-badge" alt="joyonto51" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/joyonto51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joyonto51" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joyonto51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joyonto51" height="30" width="40" /></a>
-<a href="https://fb.com/joyonto51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joyonto51" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/joyonto51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joyonto51" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/joyonto51" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joyonto51@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/joyonto51">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyonto51&show_icons=true&locale=en&layout=compact" alt="joyonto51" /></p>
+### 🔥 **What I Bring to the Table**
+- ✅ **4+ years** of hands-on experience with **Python, Frappe, ERPNext, and Django**
+- ✅ Built **scalable ERP solutions** for HR, Field Force, and Data Analytics
+- ✅ Expertise in **API development, system integrations, and process automation**
+- ✅ Strong focus on **usability, security, and performance optimization**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyonto51&show_icons=true&locale=en" alt="joyonto51" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyonto51&" alt="joyonto51" /></p>
+### 🛠️ **Technical Arsenal**
 
+#### **Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frappe-5E5E5E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERPNext-2496ED?style=for-the-badge&logo=erpnext&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+#### **Databases & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+#### **Tools & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenPyXL-01A3E0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
+
+---
+
+### 💼 **Professional Journey**
+
+#### **Software Engineer** @ [Invento Software Limited](https://inventosoft.com) *(Mar 2021 - Present)*
+- 🏗️ Developed **custom ERPNext modules** for HR, inventory, and sales
+- 🔗 Built **REST APIs** for mobile apps and third-party integrations
+- 🛠️ Automated workflows for **500+ employees** with biometric attendance
+- 📊 Implemented **data analytics dashboards** for sales forecasting
+
+#### **Jr. Software Engineer** @ IT Service Dynamics *(Jan 2019 - Feb 2021)*
+- 🌐 Developed **Django web apps** with PostgreSQL backend
+- ⚙️ Deployed solutions on **Linux (Ubuntu) with Gunicorn/Nginx**
+- 📱 Contributed to **Kotlin-based Android apps**
+
+---
+
+### 🚀 **Highlight Projects**
+
+#### **HR Management System**
+> Serves **500+ employees** with biometric integration and automated clearance workflows  
+> 🔹 *Technologies: Frappe, ERPNext, Python, REST APIs*
+
+#### **Field Force Application**
+> Used by **200+ salespersons** for store visits, requisitions, and GPS tracking  
+> 🔹 *Technologies: Django, Mobile APIs, Excel/PDF automation*
+
+#### **Generate Analysis Tool**
+> Omni-channel **sales prediction** and supply chain analytics  
+> 🔹 *Technologies: Python, OpenPyXL, Data Visualization*
+
+---
+
+### 📚 **Education & Training**
+- 🎓 **B.Sc in CSE** - Dhaka International University *(2020 - 2024)*
+- 🏅 **Diploma in Computer Engineering** - Dinajpur Polytechnic Institute *(CGPA: 3.38/4.00)*
+- 📜 **PyCamp-2018** - Best practices in Python & Django
+
+---
+
+### 📊 **GitHub Analytics**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joyonto51&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joyonto51&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyonto51&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 **Let's Collaborate!**
+<p align="center">
+  <a href="https://linkedin.com/in/joyonto51" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:joyonto51@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>

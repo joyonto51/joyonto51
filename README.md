@@ -92,14 +92,12 @@
 - 📜 **PyCamp-2018** - Best practices in Python & Django
 
 ---
-
 ### 📊 **GitHub Analytics**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joyonto51&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joyonto51&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyonto51&layout=compact&theme=radical" />
-</p>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joyonto51&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joyonto51&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyonto51&layout=compact&theme=default" />
+</p
 ---
 
 ### 📫 **Let's Collaborate!**
